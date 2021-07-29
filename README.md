@@ -77,4 +77,6 @@ Very Simple Elearning System developed in Spring Boot
     </ul>
   </li>
 </ol>
-![Screenshot](https://imgur.com/IQzAvkw)
+<p align="center">
+  <img src="https://imgur.com/IQzAvkw" width="350" title="Admin Dashboard">
+</p>
