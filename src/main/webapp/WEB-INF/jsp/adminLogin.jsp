@@ -12,7 +12,7 @@
 		<tr>
 			<td>EMail ID</td>
 			<td>
-				<s:input path="EmailId" />
+				<s:input path="EmailId" type="email" required="required"/>
 			</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -20,7 +20,7 @@
 		<tr>
 			<td>Password</td>
 			<td>
-				<s:input path="Password" />
+				<s:input path="Password" type="password" required="required"/>
 			</td>
 			<td>&nbsp;</td>
 		</tr>

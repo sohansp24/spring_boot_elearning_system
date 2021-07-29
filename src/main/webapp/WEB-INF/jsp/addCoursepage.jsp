@@ -11,14 +11,14 @@
 				<tr>
 					<td>Course Name</td>
 					<td>
-						<s:input path="CourseName" />
+						<s:input path="CourseName" required="required"/>
 					</td>
 				</tr>
 				<tr></tr>
 				<tr>
 					<td>Course Fee</td>
 					<td>
-						<s:input path="CourseFee"/>
+						<s:input path="CourseFee" required="required"/>
 					</td>
 					<td>&nbsp;</td>
 				</tr>
@@ -26,14 +26,14 @@
 				<tr>
 					<td>Course Description</td>
 					<td>
-						<s:input path="CourseDesc" />
+						<s:input path="CourseDesc" required="required"/>
 					</td>
 					<td>&nbsp;</td>
 				</tr>
 				<tr>
 					<td>Course Resource</td>
 					<td>
-						<s:input path="CourseResource" />
+						<s:input path="CourseResource" required="required"/>
 					</td>
 					<td>&nbsp;</td>
 				</tr>
