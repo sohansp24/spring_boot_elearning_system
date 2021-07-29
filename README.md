@@ -77,4 +77,5 @@ Very Simple Elearning System developed in Spring Boot
     </ul>
   </li>
 </ol>
-<img src=“https://github.com/sohansp24/spring_boot_elearning_system/blob/main/screenshots/After_registeration.png”>
+![admin_signup](https://user-images.githubusercontent.com/46857626/127433957-090181cf-15ac-4dbb-b482-e73d9fef2fb7.png)
+
